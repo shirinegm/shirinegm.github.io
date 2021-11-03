@@ -1,0 +1,18 @@
+h1 {
+    font-style: italic;
+    background-color: brown;
+    color:cornsilk
+}
+
+table {
+    background-color: cornsilk;
+}
+
+th {
+    font-weight: bolder;
+    background-color: crimson;
+    color: cornsilk;
+}
+ul {
+    border-style: dashed;
+}
